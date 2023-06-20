@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Christian (@Chris-scd)
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python (mainly)
- 
-- 👋 Hi, ich bin Christian (@Chris-scd)
-- 👀 Ich bin interessiert an programmieren
-- 🌱 Ich lerne gerade Python (hauptsächlich)
+- 👋 Hi, I’m Christian (@Chris-scd) 
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning Python (mainly) 
+ <br><br>
+- 👋 Hi, ich bin Christian (@Chris-scd) 
+- 👀 Ich bin interessiert an programmieren 
+- 🌱 Ich lerne gerade Python (hauptsächlich) 
 
 <!-- 
 💞️ I’m looking to collaborate on ...
