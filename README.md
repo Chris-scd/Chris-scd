@@ -7,16 +7,6 @@
 <h3 align="center">A passionate software developer from Germany 🇩🇪</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a persionalized Website**
- 
- 🌱 I’m currently learning **Python, Webdesign and Webbackends**
-
- ⚡ Fun fact **There is no speed limit on the German autobahn, but there is a minimum speed**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:ch.schmid99@gmail.com">
@@ -30,10 +20,6 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
 
 <hr/>
 <h3 align="center">
